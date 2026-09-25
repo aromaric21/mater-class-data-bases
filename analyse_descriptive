@@ -17,3 +17,7 @@ La valeur maximum                            =MAX(Paris!$R$2:$R$4844)
 La valeur moyenne                             =MOYENNE(Paris!$R$2:$R$4844)
 
 La valeur médiane                             =MEDIANE(Paris!$R$2:$R$4844)
+
+Valeur Unique                                =UNIQUE(Paris!$S$2:$S$4844)
+
+Le mode                                       =MODE(Paris!$S$2:$S$4844)
