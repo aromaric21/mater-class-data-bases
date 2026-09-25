@@ -1,0 +1,19 @@
+Valeurs recherchées                       Formule à utiliser dans Excel
+
+Le nombre de valeurs non vides              =NBVAL(Paris!$R$2:$R$4844)  
+
+
+Le nombre de valeurs vides                  =NB.SI(Paris!$R$2:$R$4844;"")
+
+
+Le nombre de valeurs à 0                     =NB.SI(Paris!$R$2:$R$4844;0)
+
+
+La valeur minimum                             =MIN(Paris!$R$2:$R$4844)
+
+
+La valeur maximum                            =MAX(Paris!$R$2:$R$4844)
+
+La valeur moyenne                             =MOYENNE(Paris!$R$2:$R$4844)
+
+La valeur médiane                             =MEDIANE(Paris!$R$2:$R$4844)
